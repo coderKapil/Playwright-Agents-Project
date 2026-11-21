@@ -1,0 +1,14 @@
+- generic [ref=f12e304]:
+  - generic [ref=f12e305]: Swag Labs
+  - main [ref=f12e306]:
+    - form "Login" [ref=f12e310]:
+      - textbox "Username" [ref=f12e312]
+      - textbox "Password" [ref=f12e314]
+      - button "Login" [ref=f12e316] [cursor=pointer]
+    - generic [ref=f12e318]:
+      - generic [ref=f12e319]:
+        - heading "Accepted usernames are:" [level=4] [ref=f12e320]
+        - text: standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_user
+      - generic [ref=f12e321]:
+        - heading "Password for all users:" [level=4] [ref=f12e322]
+        - text: secret_sauce
